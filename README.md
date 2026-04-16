@@ -1,10 +1,10 @@
 Socialist Algorithm. 
 사회주의자 알고리즘.  
 
-"C++" (https://img.shields.io/badge/language-C%2B%2B-blue)
-"License" (https://img.shields.io/badge/license-MIT-green)
-"Status" (https://img.shields.io/badge/status-experimental-orange)
-"Performance" (https://img.shields.io/badge/performance-adaptive-red)
+[C++](https://img.shields.io/badge/language-C%2B%2B-blue)
+[License](https://img.shields.io/badge/license-MIT-green)
+[Status](https://img.shields.io/badge/status-experimental-orange)
+[Performance](https://img.shields.io/badge/performance-adaptive-red)
 
 A hybrid sorting algorithm based on adaptive redistribution and local competition.  
 적응형 재분배와 지역적 정렬을 결합한 하이브리드 정렬 알고리즘입니다.  
