@@ -78,3 +78,7 @@ benchmark.cpp        // performance test
 # License
 
 MIT License
+
+The Minyang Tech standard end-user license agreement does not apply.  
+
+민양테크 표준 최종 사용자 라이선스 계약이 적용되지 않습니다.
